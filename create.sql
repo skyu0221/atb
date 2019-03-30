@@ -95,9 +95,10 @@ CREATE TABLE order_table (
 );
 
 CREATE TABLE trans (
+	garbage	int,
 	trans_id	int,
 	account_id	int,
-	date	int,
+	date	date,
 	type	char,
 	operation	char,
 	amount	float,
@@ -114,9 +115,9 @@ CREATE TABLE trans (
 .import ./czech/disp.csv disp
 .import ./czech/card.csv card
 .import ./czech/order.csv order_table
-.import ./czech/trans.csv trans
 
 .separator ","
 .import ./czech/new_loan.csv loan
 .import ./czech/new_account.csv account
 .import ./czech/new_client.csv client
+.import ./czech/new_trans.csv trans
