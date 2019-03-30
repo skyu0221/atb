@@ -2,5 +2,5 @@
 .mode column
 
 SELECT *
-FROM trans
-WHERE account = "89899795";
+FROM account;
+-- FROM trans, district, client, account, disp, card, loan;
