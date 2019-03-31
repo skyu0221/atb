@@ -1,0 +1,57 @@
+SEGMENT,SEGMENT_GROUP,SEGMENT_GROUP_DESC
+1,P5,Primary-Metropolitan Downscale
+2,T2,Rural & Other Downscale
+3,S4,Secondary-Metropolitan & Suburban Lower Middle
+4,T1,Rural & Other Comfortable
+5,P5,Primary-Metropolitan Downscale
+6,P4,Primary-Metropolitan Lower Middle
+7,S4,Secondary-Metropolitan & Suburban Lower Middle
+8,S4,Secondary-Metropolitan & Suburban Lower Middle
+9,S5,Secondary-Metropolitan & Suburban Downscale
+10,P2,Primary-Metropolitan Comfortable
+11,S4,Secondary-Metropolitan & Suburban Lower Middle
+12,S2,Secondary-Metropolitan & Suburban Comfortable
+13,T1,Rural & Other Comfortable
+14,S1,Secondary-Metropolitan & Suburban Affluent
+15,P5,Primary-Metropolitan Downscale
+16,S4,Secondary-Metropolitan & Suburban Lower Middle
+17,P2,Primary-Metropolitan Comfortable
+18,S4,Secondary-Metropolitan & Suburban Lower Middle
+19,S4,Secondary-Metropolitan & Suburban Lower Middle
+20,T1,Rural & Other Comfortable
+21,P3,Primary-Metropolitan Mid-Scale
+22,T1,Rural & Other Comfortable
+23,T1,Rural & Other Comfortable
+24,P2,Primary-Metropolitan Comfortable
+25,P2,Primary-Metropolitan Comfortable
+26,P2,Primary-Metropolitan Comfortable
+27,S2,Secondary-Metropolitan & Suburban Comfortable
+28,P1,Primary-Metropolitan Affluent
+29,P4,Primary-Metropolitan Lower Middle
+30,S2,Secondary-Metropolitan & Suburban Comfortable
+31,S2,Secondary-Metropolitan & Suburban Comfortable
+32,S1,Secondary-Metropolitan & Suburban Affluent
+33,P1,Primary-Metropolitan Affluent
+34,S5,Secondary-Metropolitan & Suburban Downscale
+35,P4,Primary-Metropolitan Lower Middle
+36,S5,Secondary-Metropolitan & Suburban Downscale
+37,P5,Primary-Metropolitan Downscale
+38,P5,Primary-Metropolitan Downscale
+39,P3,Primary-Metropolitan Mid-Scale
+40,S3,Secondary-Metropolitan & Suburban Mid-Scale
+41,S3,Secondary-Metropolitan & Suburban Mid-Scale
+42,P5,Primary-Metropolitan Downscale
+43,P3,Primary-Metropolitan Mid-Scale
+44,S2,Secondary-Metropolitan & Suburban Comfortable
+45,S2,Secondary-Metropolitan & Suburban Comfortable
+46,T1,Rural & Other Comfortable
+47,P5,Primary-Metropolitan Downscale
+48,T2,Rural & Other Downscale
+49,S5,Secondary-Metropolitan & Suburban Downscale
+50,P3,Primary-Metropolitan Mid-Scale
+51,P4,Primary-Metropolitan Lower Middle
+52,S5,Secondary-Metropolitan & Suburban Downscale
+53,S2,Secondary-Metropolitan & Suburban Comfortable
+54,NC,Not Classified
+55,S3,Secondary-Metropolitan & Suburban Mid-Scale
+56,S3,Secondary-Metropolitan & Suburban Mid-Scale

@@ -1,0 +1,405 @@
+CATEGORY,CATEGORY_DESC
+0,Unknown
+3,Unknown
+742,Veterinary Services
+763,Agricultural Cooperatives
+780,Landscaping and Horticultural Services
+1520,General Contractor/Residential Building
+1711,"Heating, Plumbing, Air Conditioning Contractors"
+1731,Electrical Contractors
+1740,"Masonry, Stonework, Tile Setting, Plastering, Insulation Contractors"
+1750,Carpentry
+1761,"Roof, Siding, and Sheet Metal Work Contractors"
+1799,Special Trade Contractor - Not Elsewhere Classified
+2741,Miscellaneous Publishing and Printing Services
+2842,"Specialty Cleaning, Polishing and Sanitation Preparations (Business to Business MCC)"
+3000,United Airlines
+3001,American Airlines
+3005,British Airways
+3006,Japan Air Lines
+3008,Lufthansa
+3009,Air Canada
+3010,KLM
+3022,PAL AIR
+3025,Air New Zealand Ltd.
+3029,SN Brussels Airlines - SN BRUSSELS
+3039,Avianca
+3043,Aer Lingus
+3047,THY (Turkey)
+3050,Icelandair
+3052,LANAIR
+3056,JetAir
+3058,Delta
+3072,CEBU PAC
+3076,Aeromexico
+3079,Jetstar Airways - Jetstar
+3082,Korean Airlines
+3084,Eva Airlines
+3099,Cathay Pacific
+3132,Frontier Airlines
+3136,Qatar Air
+3180,Westjet Airlines-WESTJET
+3183,Oman Aviation - OMAN AIR
+3184,LIAT
+3187,LACSA (Costa Rica)
+3196,Hawaiian Air
+3206,China Eastern Airlines (Abbr: China East Air)
+3219,Copa
+3234,CARIBAIR
+3245,Easy Jet - EASYJET
+3246,Ryan Air - RYANAIR
+3256,Alaska Airlines Inc.
+3260,Spirit Airlines - SPIRIT
+3294,Ethiopian Airlines
+3355,SIXT Car Rental
+3357,Hertz
+3366,Budget Rent a Car
+3381,Europ Car
+3387,Alamo Rent a Car
+3389,Avis R-A-C
+3390,Dollar R-A-C
+3393,National Car Rental
+3395,Thrify Car Rental
+3405,Enterprise R-A-C
+3441,Advantage Rent A Car
+3501,Holiday Inns
+3502,Best Western Hotels
+3503,Sheraton
+3504,Hilton
+3505,Forte Hotels
+3508,Quality Inns
+3509,Marriott
+3510,Days Inn Colonial Resort
+3513,Westin
+3516,LaQuinta Motor Inns
+3521,Royal Lahaina Resort
+3524,WelcomGroup Hotels
+3528,Red Lion Inns
+3530,Renaissance Hotels
+3532,Royal Kona Resort
+3551,Mirage Hotel and Casino
+3552,Coast Hotel
+3555,Treasure Island Hotel and Casino
+3562,Comfort Inns
+3573,Sandman Hotels
+3581,Delta Hotels
+3590,Fairmont Hotel
+3592,Omni Hotels
+3604,Hilton Garden Inn
+3613,Microtel Inns & Suites
+3615,Travelodge Motels
+3619,Aloft
+3628,Excalibur Hotel and Casino
+3637,Ramada Inns
+3640,Hyatt Motels
+3644,EconoLodges
+3649,Radisson
+3654,Loews Hotels
+3659,Taj Hotels International
+3660,Knights Inn
+3665,Hampton Inn Hotels
+3667,Luxor Hotel and Casino
+3676,Monte Carlo Hotel and Casino
+3687,Clarion Hotels
+3690,Courtyard Inns
+3692,Doubletree
+3700,Motel 6
+3703,Residence Inn
+3708,Virgin River Hotel and Casino
+3709,Super 8 Motels
+3715,Fairfield Inn
+3722,Wyndham Hotels
+3731,Harrah's Hotels and Casinos
+3740,Towneplace Suites
+3750,Crown Plaza Hotels
+3751,Homewood Suites
+3770,SpringHill Suites
+3773,The Venetian Resort Hotel and Casino
+3774,New York-New York Hotel and Casino
+3777,Mandalay Bay Resort
+3778,Four Points Hotels
+3779,W Hotels
+3780,Disney Resorts
+3783,Town and Country Resort and Convention Center
+3791,Staybridge Suites
+3793,The Flamingo Hotels
+3816,Home2 Suites
+3824,Aria
+3828,Cosmopolitan of Las Vegas
+3831,Waldorf
+4011,Railroads
+4111,"Local and Suburban Commuter Passenger Transportation, including Ferries"
+4112,Passenger Rail (train)
+4119,Ambulance Services
+4121,Taxicabs and Limousines
+4131,"Bus Lines, includes Charters/Tour Buses"
+4214,"Motor Freight Carriers and Trucking-Local and Long Distance, Moving & Storage Companies, and Local Delivery"
+4215,"Courier Services-Air and Ground, and Freight Forwarders"
+4225,"Public Warehousing-Farm products, Refrigerated Goods, Household Goods, and Storage"
+4411,Steamship and Cruise Lines
+4457,Boat Rentals and Leasing
+4468,"Marinas, Marine Service, and Supplies"
+4511,Airlines and Air Carriers
+4582,"Airports, Flying Fields, and Airport Terminals"
+4722,Travel Agencies
+4784,"Bridge and Road Fees, Tolls"
+4789,Transportation Services-not elsewhere classified
+4812,Telecommunication Equipment and Telephone Sales
+4814,"Telecommunication Services, Including Local and Long Distance Calls, Credit Card Calls, Call Through Use of Magnetic-Strip-Reading Telephones, and Fax Services"
+4816,"Computer Network/Information Services and other Online Services such as electronic bulletin board, e-mail, web site hosting services, or Internet access"
+4829,Quasi Cash - Money Transfer
+4899,"Cable, Satellite, and Other Pay Television and Radio Services"
+4900,"Utilities-Electric, Gas, Water, and Sanitary"
+5013,Motor Vehicle Supplies and New Parts (Business to Business MCC)
+5021,Office Furniture (Business to Business MCC)
+5039,Construction Materials Not Elsewhere Classified (Business to Business MCC)
+5044,"Photographic, Photocopy, Microfilm Equipment and Supplies (Business to Business MCC)"
+5045,"Computers, Computer Peripheral Equipment, and Software"
+5046,Commercial Equipment Not Elsewhere Classified (Business to Business MCC)
+5047,Dental/Laboratory/Medical/Ophthalmic Hospital Equipment and Supplies
+5051,Metal Service Centers and Offices (Business to Business MCC)
+5065,Electrical Parts and Equipment (Business to Business MCC)
+5072,"Hardware, Plumbing, Heat Equipment and Supplies (Business to Business MCC)"
+5074,Plumbing and Heating Equipment and Supplies (Business to Business MCC)
+5085,Industrial Supplies Not Elsewhere Classified (Business to Business MCC)
+5094,"Precious Stones, Metals, Watches and Jewelry (Business to Business MCC)"
+5099,Durable Goods Not Elsewhere Classified (Business to Business MCC)
+5111,"Stationery, Office Supplies, and Printing and Writing Paper"
+5122,"Drugs, Drug Proprietary's, and Druggists' Sundries"
+5131,"Piece Goods, Notions and Other Dry Goods (Business to Business MCC)"
+5137,"Men's, Women's and Children's Uniforms (Business to Business MCC)"
+5139,Commercial Footwear (Business to Business MCC)
+5169,Chemicals and Allied Products Not Elsewhere Classified (Business to Business MCC)
+5172,Petroleum and Products (Business to Business MCC)
+5192,"Books, Periodicals and Newspapers (Business to Business MCC)"
+5193,"Florist Suppliers, Nursery Stock & Flowers (Business to Business MCC)"
+5199,Non-durable Goods Not Elsewhere Classified (Business to Business MCC)
+5200,Home Supply Warehouse
+5211,Lumber & Building Materials Stores
+5231,"Glass, Paint, and Wallpaper Stores"
+5251,"Hardware Stores, Equipment Utilities Regulated"
+5261,Nurseries and Lawn and Garden Supply Stores
+5300,Wholesale Club with or without membership fee
+5309,Duty Free Stores
+5310,Discount Store
+5311,Department Stores
+5331,Variety Stores
+5399,Miscellaneous General Merchandise
+5411,Grocery Stores and Supermarkets
+5422,Freezer & Locker Meat Provisions
+5441,"Candy, Nut, and Confectionary Stores"
+5451,Dairy Product Stores
+5462,Bakeries
+5499,Miscellaneous Food Stores-Convenience Stores and Specialty Markets
+5511,"Car and Truck Dealers (New and Used)- Sales, Service, Repairs, Parts, and Leasing"
+5521,"Car and Truck Dealers (Used)- Sales, Service, Repairs, Parts, and Leasing"
+5532,Automotive Tire Stores
+5533,Automotive Parts and Accessories Stores
+5541,Service Stations (with or without Ancillary Services)
+5542,Automated Fuel Dispensers
+5551,Boat Dealers
+5561,"Camper, Recreational and Utility Trailer Dealers"
+5571,Motorcycle Dealers
+5592,Motor Home Dealers
+5598,Snowmobile Dealers
+5599,"Miscellaneous Automotive, Aircraft, and Farm Equipment Dealers --Not Elsewhere Classified"
+5611,Men's & Boys' Clothing and Accessory Stores
+5621,Women's Ready-to-Wear Stores
+5631,Women's Accessory and Specialty Stores
+5641,Children's and Infants' Wear Stores
+5651,Family Clothing Stores
+5655,Sports and Riding Apparel Stores
+5661,Shoe Stores
+5681,Furriers & Fur Shops
+5691,Men's and Women's Clothing Stores
+5697,"Tailors, Seamstresses, Mending, Alterations"
+5698,Wig & Toupee Shops
+5699,Miscellaneous Apparel and Accessory Stores
+5712,"Furniture, Home Furnishings, and Equipment Stores, except Appliances"
+5713,"Floor coverings, Rugs"
+5714,"Drapery, Window Covering, and Upholstery Stores"
+5718,"Fireplaces, Fireplace Screens and Accessories Stores"
+5719,Miscellaneous Home Furnishing Specialty Stores
+5722,Household Appliance Stores
+5732,Electronics Stores
+5733,"Music Stores-Musical Instruments, Pianos, and Sheet Music"
+5734,Computer Software Stores
+5735,Record Stores
+5811,Caterers - Prepare & Delivery
+5812,Eating Places and Restaurants
+5813,"Drinking Places (Alcoholic Beverages) - Bars, Taverns, Nightclubs, Cocktail Lounges, and Discotheques"
+5814,Quick Payment Service-Fast Food Restaurants
+5815,"Digital Goods – Media, Books, Movies, Music"
+5816,Digital Goods – Games
+5817,Digital Goods – Applications (Excludes Games)
+5818,Large Digital Goods Merchant
+5912,Drug Stores and Pharmacies
+5921,"Package Stores--Beer, Wine, and Liquor"
+5931,Used Merchandise and Secondhand Stores
+5932,Antique Shop
+5933,Pawn Shop
+5935,Wrecking and Salvage Yards
+5940,Bicycle Shop-Sales and Services
+5941,Sporting Goods Stores
+5942,Book Stores
+5943,"Stationery, Office and School Supply Stores"
+5944,"Jewelry, Watch, Clock, and Silverware Stores"
+5945,"Hobby, Toy and Game Stores"
+5946,Camera and Photographic Supply Stores
+5947,"Gift, Card, Novelty, and Souvenir Stores"
+5948,Luggage and Leather Goods Stores
+5949,"Sewing, Needlework, Fabric, and Piece Good Stores"
+5950,Glassware and Crystal Stores
+5960,Direct Marketing Insurance Services
+5962,Direct Marketing -- Travel Related Arrangement Services
+5963,Direct Selling Establishments/Door to Door Sales
+5964,Catalog Merchant
+5965,Combined Catalog and Retail Merchant
+5966,Outbound Telemarketing Merchant
+5967,Direct Marketing -- Inbound Telemarketing Merchants
+5968,Continuity/Subscription Merchants
+5969,Direct Marketing/Direct Marketers--Not Elsewhere Classified
+5970,Artist Supply and Craft Stores
+5971,Art Dealers and Galleries
+5972,Stamp and Coin Stores
+5973,Religious Goods Stores
+5975,"Hearing Aids--Sales, Service, and Supplies"
+5976,Orthopedic Goods and Prosthetic Devices
+5977,Cosmetic Stores
+5983,"Fuel Dealers--Fuel Oil, Wood, Coal, and Liquefied Petroleum"
+5992,Florists
+5993,Cigar Stores & Stands
+5994,News Dealers & Newsstands
+5995,"Pet Shops, Pet Food, and Supplies"
+5996,"Swimming Pools--Sales, Supplies, and Services"
+5997,Electric Razor Stores Sales & Services
+5998,Tent and Awning Stores
+5999,Miscellaneous & Specialty Retail Stores
+6010,Financial Institutions--Manual Cash Disbursements
+6011,Financial Institutions--Automated Cash Disbursements
+6051,MasterCard - Quasi Cash-Merchant
+6211,Securities - Brokers and Dealers
+6300,Insurance Sales and Underwriting
+6513,Real Estate Agents and Managers - Rentals; Property Management
+6540,POI Funding Transactions (Excluding MoneySend)
+7011,"Lodging - Hotels, Motels, and Resorts"
+7012,Timeshares
+7032,Sporting and Recreational Camps
+7033,Trailer Parks and Campgrounds
+7199,Unknown
+7210,"Laundry, Cleaning, and Garment Services"
+7211,Laundry Services - Family and Commercial
+7216,Dry Cleaners
+7217,Carpet and Upholstery Cleaning
+7221,Photographic Studios
+7230,Beauty and Barber Shops
+7251,"Shoe Repair Shops, Shoe Shine Parlors, and Hat Cleaning Shops"
+7261,Funeral Services and Crematories
+7273,Dating Services
+7276,Tax Preparation Services
+7277,"Counseling Services - Debt, Marriage, and Personal"
+7278,Buying and Shopping Services and Clubs
+7296,"Clothing Rental - Costumes, Uniforms and Formal Wear"
+7297,Massage Parlors
+7298,Health and Beauty Spas
+7299,Miscellaneous Personal Services - Not Elsewhere Classified
+7311,Advertising Services
+7321,Consumer Credit Reporting Agencies
+7333,"Commercial Photography, Art, and Graphics"
+7338,"Quick Copy, Reproduction Service"
+7339,Stenographic Service
+7342,Exterminating and Disinfecting Services
+7349,"Cleaning, Maintenance & Janitorial Services"
+7361,Employment Agencies and Temporary Help Services
+7372,"Computer Programming, Data Processing, and Integrated Systems Design Services"
+7375,Information Retrieval Services (Business to Business MCC)
+7379,"Computer Maintenance, Repair and Services (Business to Business MCC)"
+7392,"Management, Consulting, and Public Relations Services"
+7393,"Detective Agencies, Protective Agencies, and Security Services, including Armored Cars and Guard Dogs"
+7394,"Equipment, Tool, Furniture, and Appliance Rental and Leasing"
+7395,Photofinishing Laboratories and Photo Developing
+7399,Business Services
+7512,Automobile Rental Agency
+7513,Truck and Utility Trailer Rentals
+7519,Motor Home and Recreational Vehicle Rentals
+7523,Parking Lots and Garages
+7531,Automotive Top & Body Shops
+7534,Tire Retreading & Repair
+7535,Automotive Paint Shops
+7538,Automotive Service Shops (Non-Dealer)
+7542,Car Washes
+7549,Towing Services
+7622,Electronic Repair Shops
+7623,Air Conditioning and Refrigeration Repair Shops
+7629,Electrical and Small Appliance Repair Shops
+7631,"Watch, Clock, and Jewelry Repair Shops"
+7692,Welding Services
+7699,Miscellaneous Repair Shops and Related Services
+7829,Motion Picture & Video Tape Production and Distribution (Business to Business MCC)
+7832,Motion Picture Theater
+7841,DVD/Video Tape Rental Stores
+7911,"Dance Halls, Studios & Schools"
+7922,Theatrical Producers (except Motion Pictures) and Ticket Agencies
+7929,"Bands, Orchestras & Misc Entertainment"
+7932,Billiards & Pool Establishments
+7933,Bowling Alleys
+7941,"Commercial Sports, Professional Sports Clubs, Athletic Fields, and Sports Promoters"
+7991,Tourist Attractions and Exhibits
+7992,Public Golf Courses
+7993,Video Amusement Game Supply
+7994,Video Game Arcades and Establishments
+7995,"Betting, including Lottery Tickets, Casino Gaming Chips, Off- Track Betting, and Wagers at Race Track"
+7996,"Amusement Parks, Circuses, Carnivals, and Fortune Tellers"
+7997,"Membership Clubs (Sports, Recreation, Athletic), Country Clubs, and Private Golf Courses"
+7998,"Aquarium, Seaquarium, Dolphinariums"
+7999,Recreation Services - Not Elsewhere Classified
+8011,Doctors and Physicians - Not Elsewhere Classified
+8021,Dentists and Orthodontists
+8041,Chiropractors
+8042,Optometrists and Ophthalmologists
+8043,"Opticians, Optical Goods and Eyeglasses"
+8049,Podiatrists and Chiropodists
+8050,Nursing and Personal Care Facilities
+8062,Hospitals
+8071,Medical and Dental Laboratories
+8099,Medical Services Health Practitioners - No Elsewhere Classified
+8111,Legal Services and Attorneys
+8211,Elementary and Secondary Schools
+8220,"Colleges, Universities, Professional Schools, and Junior Colleges"
+8241,Correspondence Schools
+8244,Business and Secretarial Schools
+8249,Trade and Vocational Schools
+8299,Schools and Educational Services - Not Elsewhere Classified
+8351,Child Care Services
+8398,Charitable and Social Service Organizations
+8641,"Civic, Social, and Fraternal Associations"
+8651,Political Organizations
+8661,Religious Organizations
+8675,Automobile Associations
+8699,Membership Organizations - Not Elsewhere Classified
+8734,Testing Laboratories (Not Medical) - (Business to Business MCC)
+8911,"Architectural, Engineering, and Surveying Services"
+8931,"Accounting, Auditing, and Bookkeeping Services"
+8999,Professional Services - Not Elsewhere Classified
+9222,Fines
+9223,Bail & Bond Payments
+9311,Tax Payments
+9399,Government Services - Not Elsewhere Classified
+9402,Postal Services
+410019,Transfer
+410100,Interac e-Transfer Sent
+440002,Withdrawal
+440003,Withdrawal ABM
+440004,Withdrawal Interac ABM
+440009,POS Purchase - Type 1
+440010,POS Purchase - Type 2
+460000,Loan Payment
+510000,Bill Payment
+510008,Bill Payment Credit Card
+530005,Direct Deposit
+530006,Direct Debit
+610020,Loan Transfer
+610024,Transfer
+610100,Interac e-Transfer Received
+610105,Interac e-Transfer Autodeposit
+630000,Deposit Cheque
